@@ -1,2 +1,0 @@
-# RoboticsProjects
-CRI Robotics challenges
